@@ -3,4 +3,6 @@ Relevant code for generalized immune cell detection and segmentation in human ti
 
 Training, deployment, and data management scripts are found in "code"
 
-Trained models and example test sets are located in the "models" and "testsets" folders, respectively.
+Example test sets for lupus nephritis, mixed renal allograft rejection, and rheumatoid arthritis are found in "testsets"
+
+If you would like a the trained model(s) to deploy on new data, please contact Madeleine Durkee at durkeems@uchicago.edu
